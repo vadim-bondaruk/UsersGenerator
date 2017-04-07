@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersTestDBGenerator", "UsersTestDBGenerator\UsersTestDBGenerator.csproj", "{BDE50BC2-28A8-447D-B85E-5EC5E6572EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE50BC2-28A8-447D-B85E-5EC5E6572EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE50BC2-28A8-447D-B85E-5EC5E6572EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE50BC2-28A8-447D-B85E-5EC5E6572EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE50BC2-28A8-447D-B85E-5EC5E6572EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
